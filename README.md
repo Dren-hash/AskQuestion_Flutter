@@ -1,7 +1,7 @@
 # complete_flutter
 
 A new Flutter project.
-this is a simply project just to ask a questions and provide possible answers and the questions show up as the user answers them. This small Project is just to help understand custom widgets and how they can be usedful. Not done with the project yet.
+this is a simply project just to ask questions and provide possible answers and the questions show up as the user answers them. This small Project is just to help understand custom widgets and how they can be usedful. Layout widgets were used as well. Not done with the project yet.
 
 ## Getting Started
 
